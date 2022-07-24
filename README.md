@@ -1,2 +1,2 @@
 # Terrain Classification
-A ML classification algorithm capable of classifying the terrain and driveability of images
+A ML classification algorithm capable of classifying the terrain and driveability of images.
